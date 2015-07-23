@@ -5,8 +5,11 @@ WebImageListViewSample
 - Web: ISeeDeadPixel.com
 - Blog: evankale.blogspot.ca
 
-Summary:
-- Sample code for loading web images asynchronously into an Android ListView
+See a demo video here:
+https://youtu.be/ygqpzebE7b4
 
-Supplementary reading:
+Summary:
+- Sample app for loading images from the web asynchronously into a list view
+
+Further details in blog post:
 http://evankale.blogspot.ca/2015/03/android-listview-loading-image-from-web.html
