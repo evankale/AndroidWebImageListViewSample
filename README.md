@@ -11,5 +11,5 @@ https://youtu.be/ygqpzebE7b4
 Summary:
 - Sample app for loading images from the web asynchronously into a list view
 
-Further details in blog post:
+Further details in blog post: 
 http://evankale.blogspot.ca/2015/03/android-listview-loading-image-from-web.html
